@@ -1,0 +1,12 @@
+# Dependências do Node (Super pesado, nunca buildar para o GitHub)
+node_modules/
+
+# Logs do NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Arquivos do sistema operacional (opcional, mas bom ter)
+.DS_Store
+Thumbs.db
